@@ -166,22 +166,12 @@ Get click stats for a short link.
 - CI/CD pipeline integration
 
 ---
+<img width="616" height="287" alt="image" src="https://github.com/user-attachments/assets/967bae1b-cdd5-4c8e-a388-e601c08c6cef" />
 
-## Learning Outcomes
 
-Building ShortLinx covers:
-- REST API design with Express
-- Redis caching strategies (cache-aside pattern)
-- JWT authentication flow
-- PostgreSQL integration with connection pooling
-- Rate limiting patterns
-- Scalable MVC project structure
-- Production deployment concepts
 
----
 
-## Author
 
-**Pushpanjali**  
-B.Tech CSE (AI & ML) — SRM Institute of Science and Technology  
-[github.com/PUSHPANJALI021](https://github.com/PUSHPANJALI021)
+
+
+
