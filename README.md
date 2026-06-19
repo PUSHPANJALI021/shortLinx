@@ -6,6 +6,8 @@ ShortLinx lets you convert long URLs into clean, shareable short links — with 
 
 ---
 
+
+
 ## Features
 
 **URL Shortening**
@@ -33,6 +35,8 @@ ShortLinx lets you convert long URLs into clean, shareable short links — with 
 
 ---
 
+
+
 ## Tech Stack
 
 | Layer | Technology |
@@ -47,6 +51,9 @@ ShortLinx lets you convert long URLs into clean, shareable short links — with 
 | Config | dotenv |
 
 ---
+
+
+
 
 ## Project Structure
 
@@ -66,6 +73,9 @@ shortLinx/
 ├── package.json
 └── README.md
 ```
+
+
+
 
 ---
 
@@ -156,6 +166,7 @@ Get click stats for a short link.
 
 ## Future Features
 
+
 - Custom aliases for branded short links
 - QR code generation per short URL
 - Link expiry / TTL support
@@ -165,8 +176,17 @@ Get click stats for a short link.
 - Docker + Nginx deployment
 - CI/CD pipeline integration
 
+  
+
 
   <img width="616" height="287" alt="image" src="https://github.com/user-attachments/assets/967bae1b-cdd5-4c8e-a388-e601c08c6cef" />
+
+
+
+
+
+
+
 
 
 
