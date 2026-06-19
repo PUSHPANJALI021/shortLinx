@@ -166,7 +166,6 @@ Get click stats for a short link.
 
 ## Future Features
 
-
 - Custom aliases for branded short links
 - QR code generation per short URL
 - Link expiry / TTL support
